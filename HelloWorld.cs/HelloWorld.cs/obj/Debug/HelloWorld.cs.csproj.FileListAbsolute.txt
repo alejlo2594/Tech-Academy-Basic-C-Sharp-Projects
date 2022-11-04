@@ -1,0 +1,6 @@
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\HelloWorld.cs\HelloWorld.cs\obj\Debug\HelloWorld.cs.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\HelloWorld.cs\HelloWorld.cs\bin\Debug\HelloWorld.cs.exe.config
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\HelloWorld.cs\HelloWorld.cs\bin\Debug\HelloWorld.cs.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\HelloWorld.cs\HelloWorld.cs\bin\Debug\HelloWorld.cs.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\HelloWorld.cs\HelloWorld.cs\obj\Debug\HelloWorld.cs.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\HelloWorld.cs\HelloWorld.cs\obj\Debug\HelloWorld.cs.pdb
