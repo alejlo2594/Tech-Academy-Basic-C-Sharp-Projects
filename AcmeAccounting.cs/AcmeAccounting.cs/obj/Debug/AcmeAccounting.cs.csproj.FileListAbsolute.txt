@@ -1,0 +1,6 @@
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\AcmeAccounting.cs\AcmeAccounting.cs\bin\Debug\AcmeAccounting.cs.exe.config
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\AcmeAccounting.cs\AcmeAccounting.cs\bin\Debug\AcmeAccounting.cs.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\AcmeAccounting.cs\AcmeAccounting.cs\bin\Debug\AcmeAccounting.cs.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\AcmeAccounting.cs\AcmeAccounting.cs\obj\Debug\AcmeAccounting.cs.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\AcmeAccounting.cs\AcmeAccounting.cs\obj\Debug\AcmeAccounting.cs.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\AcmeAccounting.cs\AcmeAccounting.cs\obj\Debug\AcmeAccounting.cs.pdb
