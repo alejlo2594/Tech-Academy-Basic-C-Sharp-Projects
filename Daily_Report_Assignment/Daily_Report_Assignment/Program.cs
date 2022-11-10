@@ -25,21 +25,26 @@ namespace Daily_Report_Assignment
             Console.ReadLine();
 
             //Question B
-            Console.WriteLine("What is course are you on?");
+            Console.WriteLine("What course are you on?");
             string yourCourse = Console.ReadLine();
             Console.WriteLine("You are currently on the " + yourCourse + " course!");
             Console.ReadLine();
 
             //Question C 
             Console.WriteLine("What page number?");
-            string pageNumber = Console.ReadLine();
-            Console.WriteLine("You are on page " + pageNumber);
             Console.ReadLine();
+            int currentPage = 180;
+            string pageNumber = currentPage.ToString();
+            Console.WriteLine(pageNumber);
+            Console.ReadLine();
+            
 
             //Question D
             Console.WriteLine("Do you need help with anything? Please answer true or false.");
             Console.ReadLine();
-            Console.WriteLine("Thank you for your response");
+            bool needHelp = true;
+            string helpStatus = Convert.ToString(needHelp);
+            Console.WriteLine(helpStatus);
             Console.ReadLine();
 
             //Question E
@@ -56,8 +61,9 @@ namespace Daily_Report_Assignment
 
             //Question G
             Console.WriteLine("How many hours did you study today?");
-            string hoursStudied = Console.ReadLine();
-            Console.WriteLine("You studied for " + hoursStudied + " hours today!");
+            int studyToday = 8;
+            string hoursStudied = studyToday.ToString();
+            Console.WriteLine(hoursStudied);
             Console.ReadLine();
 
             //Last response
