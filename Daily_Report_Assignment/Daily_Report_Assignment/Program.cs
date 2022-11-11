@@ -45,13 +45,11 @@ namespace Daily_Report_Assignment
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
             Console.ReadLine();
             Console.WriteLine("Thank you for your response");
-            Console.ReadLine();
 
             //Question F
             Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
             Console.ReadLine();
             Console.WriteLine("Thank you for your feedback");
-            Console.ReadLine();
 
             //Question G
             Console.WriteLine("How many hours did you study today?");
