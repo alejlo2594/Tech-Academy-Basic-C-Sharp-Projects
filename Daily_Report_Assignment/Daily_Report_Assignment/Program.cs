@@ -33,18 +33,12 @@ namespace Daily_Report_Assignment
             //Question C 
             Console.WriteLine("What page number?");
             Console.ReadLine();
-            int currentPage = 180;
-            string pageNumber = currentPage.ToString();
-            Console.WriteLine(pageNumber);
-            Console.ReadLine();
-            
+            int currentPage = Convert.ToInt32(Console.ReadLine());
 
             //Question D
             Console.WriteLine("Do you need help with anything? Please answer true or false.");
             Console.ReadLine();
             bool needHelp = true;
-            string helpStatus = Convert.ToString(needHelp);
-            Console.WriteLine(helpStatus);
             Console.ReadLine();
 
             //Question E
@@ -61,10 +55,8 @@ namespace Daily_Report_Assignment
 
             //Question G
             Console.WriteLine("How many hours did you study today?");
-            int studyToday = 8;
-            string hoursStudied = studyToday.ToString();
-            Console.WriteLine(hoursStudied);
             Console.ReadLine();
+            int hoursStudied = Convert.ToInt32(Console.ReadLine());
 
             //Last response
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
