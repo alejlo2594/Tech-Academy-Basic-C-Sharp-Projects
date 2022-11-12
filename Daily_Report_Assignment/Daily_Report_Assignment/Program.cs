@@ -38,7 +38,7 @@ namespace Daily_Report_Assignment
             //Question D
             Console.WriteLine("Do you need help with anything? Please answer true or false.");
             Console.ReadLine();
-            bool needHelp = bool.Parse(Console.ReadLine());
+            bool needHelp = Convert.ToBoolean(Console.ReadLine());
 
             //Question E
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
