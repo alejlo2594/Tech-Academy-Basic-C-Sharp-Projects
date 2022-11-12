@@ -1,0 +1,7 @@
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanPractice\BooleanPractice\bin\Debug\BooleanPractice.exe.config
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanPractice\BooleanPractice\bin\Debug\BooleanPractice.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanPractice\BooleanPractice\bin\Debug\BooleanPractice.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanPractice\BooleanPractice\obj\Debug\BooleanPractice.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanPractice\BooleanPractice\obj\Debug\BooleanPractice.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanPractice\BooleanPractice\obj\Debug\BooleanPractice.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanPractice\BooleanPractice\obj\Debug\BooleanPractice.pdb
