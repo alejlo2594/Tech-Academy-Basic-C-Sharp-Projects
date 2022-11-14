@@ -18,7 +18,7 @@ namespace BooleanLoginAssignment
             Console.WriteLine("Have you ever had a DUI?");
             bool personDui = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("How many speeding tickets do you have?");
-            int personTickets = Convert.ToInt32(Console.Read());
+            int personTickets = Convert.ToInt32(Console.ReadLine());
             bool qualifications = (age > 15 && personDui == false && personTickets <= 3);
 
             //Qualifications

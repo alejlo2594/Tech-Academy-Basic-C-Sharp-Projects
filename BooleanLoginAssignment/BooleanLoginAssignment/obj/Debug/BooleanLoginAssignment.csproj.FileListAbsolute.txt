@@ -1,7 +1,7 @@
 C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\obj\Debug\BooleanLoginAssignment.csproj.AssemblyReference.cache
 C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\obj\Debug\BooleanLoginAssignment.csproj.CoreCompileInputs.cache
-C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\bin\Debug\BooleanLoginAssignment.exe.config
-C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\bin\Debug\BooleanLoginAssignment.exe
-C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\bin\Debug\BooleanLoginAssignment.pdb
-C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\obj\Debug\BooleanLoginAssignment.exe
-C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\obj\Debug\BooleanLoginAssignment.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\bin\Debug\BooleanLogicAssignment.exe.config
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\BooleanLoginAssignment\BooleanLoginAssignment\obj\Debug\BooleanLogicAssignment.pdb
