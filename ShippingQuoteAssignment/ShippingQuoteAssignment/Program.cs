@@ -29,9 +29,17 @@ namespace ShippingQuoteAssignment
             int packageLength = Convert.ToInt32(Console.ReadLine());
 
             //Add dimensions
-            string dimensions = (packageWidth + packageHeight + packageLength) < 50 ? "Your estimated total for shipping this package is: " : "Package too big to be shipped via Package Express.";
-            Console.WriteLine(dimensions);
-
+            if ((packageWidth + packageHeight + packageLength) < 50) 
+            {
+                Console.WriteLine("Your estimated total for shipping this package is: ");
+            }
+            else
+            {
+                Console.WriteLine("Package too big to be shipped via Package Express.");
+                Console.ReadLine();
+                return;
+            }
+                    
             //Calculate shipping quote
             int packageQuote = (packageWidth * packageHeight * packageLength) * packageWeight / 100;
             Console.WriteLine("$" + packageQuote + ".00");
