@@ -26,45 +26,27 @@ namespace ShippingQuoteAssignment
             else
             {
                 Console.WriteLine("Please enter package width below: ");
-            }
-
-            //Width
-            int packageWidth = Convert.ToInt32(Console.ReadLine());
-            if (packageWidth > 50)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
-            }
-            else
-            {
+                int packageWidth = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Please enter package height below: ");
-            }
-
-             //Height
-            int packageHeight = Convert.ToInt32(Console.ReadLine());
-            if ((packageHeight + packageWidth) > 50)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
-            }
-            else
-            {
+                int packageHeight = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Please enter package length below: ");
-            }
+                int packageLength = Convert.ToInt32(Console.ReadLine());
 
-            //Length
-            int packageLength = Convert.ToInt32(Console.ReadLine());
-            if ((packageHeight + packageWidth + packageLength) > 50)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
-            }
-            else
-            {
-                Console.WriteLine("Your estimated total for shipping this package is: ");
-            }
+                if ((packageHeight + packageLength + packageWidth) > 50)
+                             
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express.");
+                }
 
-            //Calculate shipping quote
-            int packageQuote = (packageWidth * packageHeight * packageLength) * packageWeight / 100;
-            Console.WriteLine("$" + packageQuote + ".00");
-            Console.WriteLine("Thank you!");
+                else
+                {
+                    Console.WriteLine("Your estimated total for shipping this package is: ");
+                    //Calculate shipping quote
+                    int packageQuote = (packageWidth * packageHeight * packageLength) * packageWeight / 100;
+                    Console.WriteLine("$" + packageQuote + ".00");
+                    Console.WriteLine("Thank you!");
+                }
+            }
 
             Console.ReadLine();
 
