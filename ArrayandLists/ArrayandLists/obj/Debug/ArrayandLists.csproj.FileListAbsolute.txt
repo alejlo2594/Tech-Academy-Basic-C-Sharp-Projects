@@ -1,0 +1,7 @@
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\ArrayandLists\ArrayandLists\bin\Debug\ArrayandLists.exe.config
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\ArrayandLists\ArrayandLists\bin\Debug\ArrayandLists.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\ArrayandLists\ArrayandLists\bin\Debug\ArrayandLists.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\ArrayandLists\ArrayandLists\obj\Debug\ArrayandLists.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\ArrayandLists\ArrayandLists\obj\Debug\ArrayandLists.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\ArrayandLists\ArrayandLists\obj\Debug\ArrayandLists.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\ArrayandLists\ArrayandLists\obj\Debug\ArrayandLists.pdb
