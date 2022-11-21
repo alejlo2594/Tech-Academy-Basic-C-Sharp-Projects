@@ -11,7 +11,15 @@ namespace ArrayandLists
             string[] Names = { "Jen", "Ella", "Tiorys", "Sarah", "Lorena" };
             Console.WriteLine("Select a number between 0 - 4 to display an index of the array");
             int namesArray = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(Names[namesArray]);
+
+            if (namesArray > 4)
+            {
+                Console.WriteLine("Index does not exist.");
+            }
+            else
+            {
+                Console.WriteLine(Names[namesArray]);
+            }
 
 
             //Integer Array 
@@ -42,9 +50,17 @@ namespace ArrayandLists
             intList.Add("Zdravo");
             Console.WriteLine("Select a number between 0 - 4 to display an index of the array");
             int newList = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(intList[newList]);
-            Console.ReadLine();
 
+            if (newList > 4)
+            {
+                Console.WriteLine("Index does not exist.");
+            }
+            else
+            {
+                Console.WriteLine(intList[newList]);
+            }
+
+            Console.ReadLine();
 
 
         }
