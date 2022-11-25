@@ -12,18 +12,20 @@ namespace ConsoleAppAssignment
         {
             //Part 1: 
             Console.WriteLine("Part 1: ");
-            List<string> names = new List<string> { "James", "Ella", "Chris", "Aly"};
+            string[] names = { "James", "Ella", "Chris", "Aly" };
             Console.WriteLine("Please type a word:");
             string word1 = Console.ReadLine();
-            Console.WriteLine("Please type a word:");
-            string word2 = Console.ReadLine();
-            Console.WriteLine("Please type a word:");
-            string word3 = Console.ReadLine();
-            Console.WriteLine("Please type a word:");
-            string[] words = { (names) + (word1 + word2 + word3) };
-            Console.WriteLine(words);
+            for (int j = 0; j < names.Length; j++)
+            {
+                names[j] = names[j] + word1;
+            }
+            for (int j = 0; j < names.Length; j++)
+            {
+                Console.WriteLine(names[j]);
+            }
             Console.ReadLine();
-            
+
+
 
 
             //Part 2:
@@ -85,39 +87,42 @@ namespace ConsoleAppAssignment
             Console.ReadLine();
 
             //Part 4:
-            string[] cars = { "Honda", "Toyota", "BMW", "Mercedes", "Fiat", "Kia", "Subaru"};
+            List<string> cars = new List<string> { "Honda", "Toyota", "BMW", "Mercedes", "Fiat", "Kia", "Subaru" };
             Console.WriteLine("Select one of the following:  Honda, Toyota, BMW, Mercedes, Fiat, Kia, Subaru ");
             string carType = Console.ReadLine();
-            for (int a = 0; a < cars.Length; a++)
+            bool found = false;
+            for (int a = 0; a < cars.Count; a++)
 
             {
                 if (cars[a] == carType)
                 {
                     Console.WriteLine(a);
+                    found = true;
                     break;
                 }
-
-                else
-                {
-                    Console.WriteLine(" I'm sorry that car is not on the list!");
-                }
+            }
+            if (!found)
+            {
+                Console.WriteLine(" I'm sorry that car is not on the list!");
             }
             Console.ReadLine();
 
 
             //Part 5:
-            string[] states = { "New Jersey", "New York", "Pennsylvania", "California", "Georgia", "Ohio", "New York"};
+            List<string> states = new List<string> { "New Jersey", "New York", "Pennsylvania", "California", "Georgia", "Ohio", "New York" };
             Console.WriteLine("Please choose one of the following states: New Jersey, New York, Pennsylvania, California, Georgia, Ohio");
             string stateName = Console.ReadLine();
-            for (int k = 0; k < states.Length; k++)
+            bool seen = false;
+            for (int k = 0; k < states.Count; k++)
 
             {
                 if (states[k] == stateName)
                 {
                     Console.WriteLine(k);
+                    seen = true;
                     break;
                 }
-                else
+                if (!seen) 
                 {
                     Console.WriteLine("Does not have a match in our records!");
                 }
@@ -127,26 +132,22 @@ namespace ConsoleAppAssignment
 
 
             //Part 6:
-            List<string> dogs = new List<string>() { "Labrador", "Rottweiler", "Pitbull", "Chihuahua", "Rottweiler", "Golden Doodle", "Dalmation"};
+            List<string> dogs = new List<string>() { "Labrador", "Rottweiler", "Pitbull", "Chihuahua", "Rottweiler", "Golden Doodle", "Dalmation" };
+            List<string> dogs1 = new List<string>() { };
             foreach (string dog in dogs)
             {
-                Console.WriteLine("List of Dogs: " + dog);
-            }
-
-
-            IEnumerable<string> duplicates = dogs.GroupBy(x => x)
-                                            .Where(g => g.Count() > 1)
-                                            .Select(x => x.Key);
-            foreach (string duplicate in duplicates)
-            {
-                Console.WriteLine("These items are already in the list: " + String.Join(",", duplicates) + "\n-----END-----");
-
+                if (dogs1.Contains(dog))
+                {
+                    Console.WriteLine("This item is already in the list: " + dog);
+                }
+                else
+                {
+                    Console.WriteLine("This item is unique " + dog);
+                    dogs1.Add(dog);
+                }
 
             }
             Console.ReadLine();
-
-
-
 
         }
     }
