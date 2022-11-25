@@ -1,0 +1,7 @@
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegers_Assignment\StringsAndIntegers_Assignment\bin\Debug\StringsAndIntegers_Assignment.exe.config
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegers_Assignment\StringsAndIntegers_Assignment\bin\Debug\StringsAndIntegers_Assignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegers_Assignment\StringsAndIntegers_Assignment\bin\Debug\StringsAndIntegers_Assignment.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegers_Assignment\StringsAndIntegers_Assignment\obj\Debug\StringsAndIntegers_Assignment.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegers_Assignment\StringsAndIntegers_Assignment\obj\Debug\StringsAndIntegers_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegers_Assignment\StringsAndIntegers_Assignment\obj\Debug\StringsAndIntegers_Assignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\StringsAndIntegers_Assignment\StringsAndIntegers_Assignment\obj\Debug\StringsAndIntegers_Assignment.pdb
