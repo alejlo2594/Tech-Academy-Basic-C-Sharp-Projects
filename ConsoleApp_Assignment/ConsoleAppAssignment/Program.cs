@@ -12,24 +12,18 @@ namespace ConsoleAppAssignment
         {
             //Part 1: 
             Console.WriteLine("Part 1: ");
+            List<string> names = new List<string> { "James", "Ella", "Chris", "Aly"};
             Console.WriteLine("Please type a word:");
-            string string1 = Console.ReadLine();
+            string word1 = Console.ReadLine();
             Console.WriteLine("Please type a word:");
-            string string2 = Console.ReadLine();
+            string word2 = Console.ReadLine();
             Console.WriteLine("Please type a word:");
-            string string3 = Console.ReadLine();
+            string word3 = Console.ReadLine();
             Console.WriteLine("Please type a word:");
-            string string4 = Console.ReadLine();
-            Console.WriteLine("Please type a word:");
-            string string5 = Console.ReadLine();
-            Console.WriteLine("Please type a word:\n");
-            string string6 = Console.ReadLine();
-            string[] words = { string1, string2, string3, string4, string5, string6 };
-            foreach (string word in words)
-            {
-                Console.WriteLine(word);
-                Console.ReadLine();
-            }
+            string[] words = { (names) + (word1 + word2 + word3) };
+            Console.WriteLine(words);
+            Console.ReadLine();
+            
 
 
             //Part 2:
@@ -43,6 +37,7 @@ namespace ConsoleAppAssignment
                 Console.Write("\t, " + i);
 
             }
+            Console.ReadLine();
 
             //Part 3:     
 
@@ -90,29 +85,28 @@ namespace ConsoleAppAssignment
             Console.ReadLine();
 
             //Part 4:
-            List<string> cars = new List<string> { "Honda", "Toyota", "BMW", "Mercedes", "Fiat", "Kia", "Subaru"};
+            string[] cars = { "Honda", "Toyota", "BMW", "Mercedes", "Fiat", "Kia", "Subaru"};
             Console.WriteLine("Select one of the following:  Honda, Toyota, BMW, Mercedes, Fiat, Kia, Subaru ");
-            Console.WriteLine("Type one of the cars above.");
             string carType = Console.ReadLine();
-            foreach (string car in cars)
+            for (int a = 0; a < cars.Length; a++)
 
             {
-                if (car == carType)
+                if (cars[a] == carType)
                 {
-                    Console.WriteLine("I have Found: " + car);
+                    Console.WriteLine(a);
                     break;
                 }
 
                 else
                 {
-                    Console.WriteLine(carType + " I'm sorry that car is not on the list!");
+                    Console.WriteLine(" I'm sorry that car is not on the list!");
                 }
             }
             Console.ReadLine();
 
 
             //Part 5:
-            string[] states = { "New Jersey", "New York", "Pennsylvania", "California", "Georgia", "Ohio"};
+            string[] states = { "New Jersey", "New York", "Pennsylvania", "California", "Georgia", "Ohio", "New York"};
             Console.WriteLine("Please choose one of the following states: New Jersey, New York, Pennsylvania, California, Georgia, Ohio");
             string stateName = Console.ReadLine();
             for (int k = 0; k < states.Length; k++)
@@ -120,14 +114,13 @@ namespace ConsoleAppAssignment
             {
                 if (states[k] == stateName)
                 {
-                    Console.WriteLine("We have found " + states[k] + " in our records!");
+                    Console.WriteLine(k);
                     break;
                 }
                 else
                 {
-                    Console.WriteLine("\"" + stateName + "\"" + "does not have a match in our records!");
+                    Console.WriteLine("Does not have a match in our records!");
                 }
-
             }
             Console.ReadLine();
 
