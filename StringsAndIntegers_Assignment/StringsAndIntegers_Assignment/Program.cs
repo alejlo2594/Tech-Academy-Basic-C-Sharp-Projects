@@ -10,17 +10,18 @@ namespace StringsAndIntegers_Assignment
     {
         static void Main(string[] args)
         {
+            List<int> numbers = new List<int> { 10, 20, 30, 40, 50 };
             try
             {
-                Console.WriteLine("Pick a number.");
-                int numberOne = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Pick a second number.");
-                int numberTwo = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Diving the two...");
-                int numberThree = numberOne / numberTwo;
-                Console.WriteLine(numberOne + " divided by " + numberTwo + " equals " + numberThree);
-                Console.ReadLine();
+                for (int i = 0; i < numbers.Count; i++)
+                {
+                    Console.WriteLine("Pick a number.");
+                    int numberOne = Convert.ToInt32(Console.ReadLine());
+                    numbers[i] = numbers[i] / numberOne;
+                    Console.WriteLine(numbers[i]);
+                }
             }
+
             catch (FormatException ex)
             {
                 Console.WriteLine("Please type a whole number.");
