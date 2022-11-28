@@ -98,14 +98,14 @@ namespace ConsoleAppAssignment
                 {
                     Console.WriteLine(a);
                     found = true;
-                    
+                    break;
                 }
-
+            }
                 if (!found)
                 {
                     Console.WriteLine(" I'm sorry that car is not on the list!");
                 }
-            }
+            
              Console.ReadLine();
 
 
@@ -121,13 +121,13 @@ namespace ConsoleAppAssignment
                 {
                     Console.WriteLine(k);
                     seen = true;
-                    break;
                 }
+            }
                 if (!seen) 
                 {
                     Console.WriteLine("Does not have a match in our records!");
                 }
-            }
+            
             Console.ReadLine();
 
 
