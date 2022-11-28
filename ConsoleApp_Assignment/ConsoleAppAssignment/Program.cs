@@ -98,14 +98,15 @@ namespace ConsoleAppAssignment
                 {
                     Console.WriteLine(a);
                     found = true;
-                    break;
+                    
+                }
+
+                if (!found)
+                {
+                    Console.WriteLine(" I'm sorry that car is not on the list!");
                 }
             }
-            if (!found)
-            {
-                Console.WriteLine(" I'm sorry that car is not on the list!");
-            }
-            Console.ReadLine();
+             Console.ReadLine();
 
 
             //Part 5:
