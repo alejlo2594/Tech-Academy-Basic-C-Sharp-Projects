@@ -17,12 +17,12 @@ namespace MethodsSubmission_Assignment
             string str1 = "15";
             int num3 = Int32.Parse(str1);
 
-            Methods FirstOp = new Methods();
-            Methods SecondOp = new Methods();
-            Methods ThirdOp = new Methods();
-            Console.WriteLine(FirstOp.MathMethod(10));
-            Console.WriteLine(SecondOp.MathMethod(10, 5.5m));
-            Console.WriteLine(ThirdOp.MathMethod(10, 5.5m, str1));
+            Methods FirstOperation = new Methods();
+            Methods SecondOperation = new Methods();
+            Methods ThirdOperation = new Methods();
+            Console.WriteLine(FirstOperation.MathMethod(10));
+            Console.WriteLine(SecondOperation.MathMethod(10, 5.5m));
+            Console.WriteLine(ThirdOperation.MathMethod(10, 5.5m, str1));
             Console.ReadLine();
 
 
