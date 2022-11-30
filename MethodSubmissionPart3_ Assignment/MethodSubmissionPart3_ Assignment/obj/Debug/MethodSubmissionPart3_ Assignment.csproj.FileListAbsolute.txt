@@ -1,0 +1,7 @@
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionPart3_ Assignment\MethodSubmissionPart3_ Assignment\bin\Debug\MethodSubmissionPart3_ Assignment.exe.config
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionPart3_ Assignment\MethodSubmissionPart3_ Assignment\bin\Debug\MethodSubmissionPart3_ Assignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionPart3_ Assignment\MethodSubmissionPart3_ Assignment\bin\Debug\MethodSubmissionPart3_ Assignment.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionPart3_ Assignment\MethodSubmissionPart3_ Assignment\obj\Debug\MethodSubmissionPart3_ Assignment.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionPart3_ Assignment\MethodSubmissionPart3_ Assignment\obj\Debug\MethodSubmissionPart3_ Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionPart3_ Assignment\MethodSubmissionPart3_ Assignment\obj\Debug\MethodSubmissionPart3_ Assignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodSubmissionPart3_ Assignment\MethodSubmissionPart3_ Assignment\obj\Debug\MethodSubmissionPart3_ Assignment.pdb
