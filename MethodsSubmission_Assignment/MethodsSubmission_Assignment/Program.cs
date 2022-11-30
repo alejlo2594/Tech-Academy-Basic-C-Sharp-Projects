@@ -8,19 +8,27 @@ namespace MethodsSubmission_Assignment
 {
     class Program
     {
+        public static int Data { get; set; }
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter a number: ");
-            var userValue = Convert.ToInt32(Console.ReadLine());
+            int num1 = 10;
+            decimal num2 = 5.5m;
+            string str1 = "15";
+            int num3 = Int32.Parse(str1);
 
-            var operatorObject = new Methods();
-            var result = operatorObject.Add(userValue, 10);
-            var result2 = operatorObject.Subtract(userValue, 2);
-            var result3 = operatorObject.Multiply(userValue, 15);
-            Console.WriteLine(result);
-            Console.WriteLine(result2);
-            Console.WriteLine(result3);
+            Methods FirstOp = new Methods();
+            Methods SecondOp = new Methods();
+            Methods ThirdOp = new Methods();
+            Console.WriteLine(FirstOp.MathMethod(10));
+            Console.WriteLine(SecondOp.MathMethod(10, 5.5m));
+            Console.WriteLine(ThirdOp.MathMethod(10, 5.5m, str1));
             Console.ReadLine();
+
+
+
+
+
         }                                                
      }
  }

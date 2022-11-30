@@ -8,17 +8,25 @@ namespace MethodsSubmission_Assignment
 {
     class Methods
     {
-        public int Add (int data, int value)
+        public int MathMethod(int num1)
         {
-            return data + value;
+            int num1Result = num1 + 10;
+            return num1Result;
         }
-        public int Subtract (int data, int value)
+
+        public decimal MathMethod(int num1, decimal num2)
         {
-            return data - value;
+            decimal num2Result = num2 * 10;
+            return num2Result;
         }
-        public int Multiply (int data, int value)
+
+        public int MathMethod(int num1, decimal num2, string num3)
         {
-            return data * value;
+            int num4 = Convert.ToInt32(num3);
+            int num3Result = num4 - 10;
+            return num3Result;
         }
     }
 }
+
+                                                                                           
