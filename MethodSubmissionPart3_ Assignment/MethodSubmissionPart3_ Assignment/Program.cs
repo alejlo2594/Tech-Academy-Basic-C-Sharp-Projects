@@ -13,10 +13,11 @@ namespace MethodSubmissionPart3__Assignment
             Console.WriteLine("Pick a number");
             int num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Pick a second number. Number entry not required");
-            int num2 = Convert.ToInt32(Console.ReadLine());
+            string answer = Console.ReadLine();
 
             Methods Operator = new Methods();
-            Operator.NewMethod(num1, num2);
+
+            Console.WriteLine("Your entered numbers + 15 = " + Operator.NewMethod (num1, answer));
 
             Console.ReadLine();
         }
