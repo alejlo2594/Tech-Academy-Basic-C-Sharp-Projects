@@ -21,8 +21,8 @@ namespace MethodsSubmission_Assignment
             Methods SecondOperation = new Methods();
             Methods ThirdOperation = new Methods();
             Console.WriteLine(FirstOperation.MathMethod(10));
-            Console.WriteLine(SecondOperation.MathMethod(10, 5.5m));
-            Console.WriteLine(ThirdOperation.MathMethod(10, 5.5m, str1));
+            Console.WriteLine(SecondOperation.MathMethod(5.5m));
+            Console.WriteLine(ThirdOperation.MathMethod(str1));
             Console.ReadLine();
 
 
