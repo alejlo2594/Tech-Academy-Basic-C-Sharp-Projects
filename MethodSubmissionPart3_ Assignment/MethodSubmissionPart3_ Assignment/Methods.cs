@@ -8,19 +8,9 @@ namespace MethodSubmissionPart3__Assignment
 {
     class Methods
     {
-        public int NewMethod(int num1, string answer)
+        public int NewMethod(int num1, int num2 = 1)
         {
-            int result = 0;
-            if (answer == "")
-            {
-                result = num1 + 10;
-
-            }
-            else
-            {
-                int num2 = Convert.ToInt32(answer);
-                result = num1 + num2 + 10;
-            }
+            int result = num1 + num2;
             return result;
         }
     }
