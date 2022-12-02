@@ -10,8 +10,8 @@ namespace MethodSubmissionPart4_Assignment
     {
         public void NewMethod(int num1, int num2)
         {
-            int answer = num1 + 100;
-            Console.WriteLine(num2);
+            int answer = num1 + num2;
+            Console.WriteLine(answer);
         }
     }
 }

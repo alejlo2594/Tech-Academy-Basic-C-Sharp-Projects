@@ -10,13 +10,10 @@ namespace MethodSubmissionPart4_Assignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pick a number");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Pick a second number.");
-            int num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Welcome, please see method result below: ");
 
             Methods Operator = new Methods();
-            Operator.NewMethod(num1, num2);
+            Operator.NewMethod(num1: 10, num2: 15);
 
             Console.ReadLine();
         }
