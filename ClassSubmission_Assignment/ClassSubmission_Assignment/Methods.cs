@@ -8,7 +8,7 @@ namespace ClassSubmission_Assignment
 {
     public class Methods
     {
-        public void MathMethodFirst(int num1, int num2)
+        public void MathMethod1(int num1, int num2)
         {
             int result = num1 / 2;
             int result2 = num2 / 2;
@@ -16,13 +16,13 @@ namespace ClassSubmission_Assignment
 
         }
 
-        public void MathMethodSecond(int num3, int num4)
+        public void MathMethod2(int num3, int num4)
         {
             int result5 = num3 * num4;
             Console.WriteLine(num3 + " x " + num4 + " = " + result5);
         }
 
-        public static int MathMethodSecond(int num1, out int num2)
+        public static int MathMethod2(int num1, out int num2)
         {
             num2 = num1 + 5;
             return num2;

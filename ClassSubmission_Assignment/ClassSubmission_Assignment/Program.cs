@@ -17,8 +17,8 @@ namespace ClassSubmission_Assignment
             int number4 = 7;
 
             Methods FirstOp = new Methods();
-            FirstOp.MathMethodFirst(num1, num2);
-            FirstOp.MathMethodSecond(number3, number4);
+            FirstOp.MathMethod1(num1, num2);
+            FirstOp.MathMethod2(number3, number4);
 
             Console.ReadLine();
         }
