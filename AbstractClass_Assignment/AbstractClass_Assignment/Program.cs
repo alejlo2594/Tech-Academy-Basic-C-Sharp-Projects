@@ -15,6 +15,10 @@ namespace AbstractClass_Assignment
             Person.LastName = ("Student");
             Person.SayName();
             Console.ReadLine();
+
+            IQuittable Resign = new Employee() { FirstName = "Alex", LastName = "Batista" };
+            Resign.Quit();
+            Console.ReadLine();
         }
     }
 }
