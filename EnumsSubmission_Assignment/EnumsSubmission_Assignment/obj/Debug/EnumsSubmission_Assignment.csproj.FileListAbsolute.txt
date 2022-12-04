@@ -1,0 +1,7 @@
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\EnumsSubmission_Assignment\EnumsSubmission_Assignment\obj\Debug\EnumsSubmission_Assignment.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\EnumsSubmission_Assignment\EnumsSubmission_Assignment\obj\Debug\EnumsSubmission_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\EnumsSubmission_Assignment\EnumsSubmission_Assignment\bin\Debug\EnumsSubmission_Assignment.exe.config
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\EnumsSubmission_Assignment\EnumsSubmission_Assignment\bin\Debug\EnumsSubmission_Assignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\EnumsSubmission_Assignment\EnumsSubmission_Assignment\bin\Debug\EnumsSubmission_Assignment.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\EnumsSubmission_Assignment\EnumsSubmission_Assignment\obj\Debug\EnumsSubmission_Assignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\EnumsSubmission_Assignment\EnumsSubmission_Assignment\obj\Debug\EnumsSubmission_Assignment.pdb
