@@ -13,9 +13,5 @@ namespace AbstractClass_Assignment
             base.SayName();
         }
 
-        public void Quit(Person FirstName, Person LastName)
-        {
-            throw new NotImplementedException();
-        }
-    }
+     }
 }

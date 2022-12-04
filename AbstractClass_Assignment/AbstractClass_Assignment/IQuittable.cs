@@ -8,9 +8,9 @@ namespace AbstractClass_Assignment
 {
     interface IQuittable
     {
-        void Quit()
-        {
-            Console.WriteLine("The following Employee has resigned: ");
-        }
+        void Quit();
+
+        string FirstName { get; set; }
+        string LastName { get; set; }
     }
 }

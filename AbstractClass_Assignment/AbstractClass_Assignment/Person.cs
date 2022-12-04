@@ -15,5 +15,10 @@ namespace AbstractClass_Assignment
         {
             Console.WriteLine("Full Name: " + FirstName + " " + LastName);
         }
+
+        public void Quit()
+        {
+            Console.WriteLine("The following person quit: " + FirstName + " " + LastName);
+        }
     }
 }
