@@ -1,0 +1,7 @@
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjects_Assignment\MethodsAndObjects_Assignment\obj\Debug\MethodsAndObjects_Assignment.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjects_Assignment\MethodsAndObjects_Assignment\obj\Debug\MethodsAndObjects_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjects_Assignment\MethodsAndObjects_Assignment\bin\Debug\MethodsAndObjects_Assignment.exe.config
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjects_Assignment\MethodsAndObjects_Assignment\bin\Debug\MethodsAndObjects_Assignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjects_Assignment\MethodsAndObjects_Assignment\bin\Debug\MethodsAndObjects_Assignment.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjects_Assignment\MethodsAndObjects_Assignment\obj\Debug\MethodsAndObjects_Assignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjects_Assignment\MethodsAndObjects_Assignment\obj\Debug\MethodsAndObjects_Assignment.pdb
