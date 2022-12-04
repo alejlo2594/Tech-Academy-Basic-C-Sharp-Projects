@@ -23,22 +23,27 @@ namespace EnumsSubmission_Assignment
             try
             {
                 Console.WriteLine("Enter the current day of the week.");
-                string userDayoftheWeek = Console.ReadLine();
-
-                if (Enum.TryParse(userDayoftheWeek, out DaysoftheWeek numDay))
+                string userAnswer = Console.ReadLine();
+                DaysoftheWeek day = (DaysoftheWeek)Enum.Parse(typeof(DaysoftheWeek),userAnswer, true);
+                Console.WriteLine("Today is " + userAnswer);
+                if (Enum.IsDefined(typeof(DaysoftheWeek), day) | day.ToString().Contains(","))
                 {
-                    Console.WriteLine("Today is " + numDay);
+                    Console.WriteLine(userAnswer, day.ToString());
+                }                                  
+                else
+                {
+                    Console.WriteLine("Please enter an actual day of the week.");
                 }
-            }
+            }                                  
 
-            catch (Exception ex)
+            catch (Exception)
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine("Please enter actual day of the week.");
             }
-
-            Console.ReadLine();
-
-            
+            finally
+            {
+                Console.ReadLine();
+            }                                                  
         }
     }
 }
