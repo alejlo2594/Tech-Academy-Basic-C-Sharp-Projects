@@ -1,0 +1,7 @@
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\UserDateAndTime_Assignment\UserDateAndTime_Assignment\bin\Debug\UserDateAndTime_Assignment.exe.config
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\UserDateAndTime_Assignment\UserDateAndTime_Assignment\bin\Debug\UserDateAndTime_Assignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\UserDateAndTime_Assignment\UserDateAndTime_Assignment\bin\Debug\UserDateAndTime_Assignment.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\UserDateAndTime_Assignment\UserDateAndTime_Assignment\obj\Debug\UserDateAndTime_Assignment.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\UserDateAndTime_Assignment\UserDateAndTime_Assignment\obj\Debug\UserDateAndTime_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\UserDateAndTime_Assignment\UserDateAndTime_Assignment\obj\Debug\UserDateAndTime_Assignment.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\UserDateAndTime_Assignment\UserDateAndTime_Assignment\obj\Debug\UserDateAndTime_Assignment.pdb
