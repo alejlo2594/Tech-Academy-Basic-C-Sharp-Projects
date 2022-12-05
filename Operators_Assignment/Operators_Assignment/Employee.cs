@@ -24,12 +24,12 @@ namespace Operators_Assignment
 
         public static bool operator == (Employee Employeeid1, Employee Employeeid2)
         {
-            return Employeeid1 == Employeeid2;
+            return Employeeid1.id == Employeeid2.id;
         }
 
         public static bool operator !=(Employee Employeeid1, Employee Employeeid2)
         {
-            return Employeeid1 != Employeeid2;
+            return Employeeid1.id != Employeeid2.id;
         }
 
        
