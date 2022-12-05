@@ -1,0 +1,7 @@
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\bin\Debug\TwentyOne_Game.exe.config
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\bin\Debug\TwentyOne_Game.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\bin\Debug\TwentyOne_Game.pdb
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.exe
+C:\Users\Alejandra\OneDrive\Desktop\GitHub\Tech-Academy-Basic-C-Sharp-Projects\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.pdb
