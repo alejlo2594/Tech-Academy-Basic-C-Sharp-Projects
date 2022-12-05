@@ -11,14 +11,8 @@ namespace AbstractClass_Assignment
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public virtual void SayName()
-        {
-            Console.WriteLine("Full Name: " + FirstName + " " + LastName);
-        }
+        public abstract void SayName();             
 
-        public void Quit()
-        {
-            Console.WriteLine("The following person quit: " + FirstName + " " + LastName);
-        }
+       
     }
 }

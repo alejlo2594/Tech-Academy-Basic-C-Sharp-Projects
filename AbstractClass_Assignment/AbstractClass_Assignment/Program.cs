@@ -16,7 +16,7 @@ namespace AbstractClass_Assignment
             Person.SayName();
             Console.ReadLine();
 
-            Person.Quit();        
+            Person.Quit(Person);        
             Console.ReadLine();
 
 

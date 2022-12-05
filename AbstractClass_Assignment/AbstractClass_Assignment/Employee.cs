@@ -10,8 +10,13 @@ namespace AbstractClass_Assignment
     {
         public override void SayName()
         {
-            base.SayName();
+            Console.WriteLine("Full Name: " + FirstName + " "+ LastName);
         }
 
-     }
+        public void Quit(Person person)
+        {
+            Console.WriteLine("The following person quit: " + FirstName + " " + LastName);
+        }
+
+    }
 }
