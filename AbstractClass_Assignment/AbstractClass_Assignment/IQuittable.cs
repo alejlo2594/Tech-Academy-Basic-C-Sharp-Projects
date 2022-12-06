@@ -9,7 +9,7 @@ namespace AbstractClass_Assignment
     interface IQuittable
     {
 
-        void Quit(string quit);
+        void Quit();
    
     }
 }

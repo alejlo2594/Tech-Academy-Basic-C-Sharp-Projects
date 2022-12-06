@@ -17,7 +17,7 @@ namespace AbstractClass_Assignment
             Console.ReadLine();
 
             IQuittable quitter = new Employee { FirstName = "John", LastName = " Doe" };
-            quitter.Quit("Following employee has quit " + quitter);
+            quitter.Quit();
             Console.ReadLine();
 
 

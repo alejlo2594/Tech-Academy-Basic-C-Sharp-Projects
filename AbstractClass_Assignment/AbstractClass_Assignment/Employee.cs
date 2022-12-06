@@ -13,7 +13,7 @@ namespace AbstractClass_Assignment
             Console.WriteLine("Full Name: " + FirstName + " "+ LastName);
         }
 
-        public void Quit(string quit)
+        public void Quit()
         {
             Console.WriteLine("Following employee has quit: " + FirstName + LastName);
         }
