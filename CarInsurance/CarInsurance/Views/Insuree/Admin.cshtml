@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Admin";
+}
+
+<h2>Admin</h2>
+
+@model CarInsurance.Models.Insuree
+
+<p>
+    @Html.ActionLink("Index View", "Index")
+</p>
+<table class="table">
+        <tr>
+            <th>
+                First Name
+            </th>
+            <th>
+                Last Name
+            </th>
+            <th>
+                Email Address
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quote)
+            </th>
+            <th></th>
+        </tr>
+</table>
+
